@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# THE GREAT TRIO
+## Thor
+*The Strongest Avenger*
+### Captain America
+*First Avenger*
+#### Iron Man
+*The Genius Billionaire Playboy Philanthropist*
